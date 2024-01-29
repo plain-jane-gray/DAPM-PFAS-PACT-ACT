@@ -1,5 +1,7 @@
 <h1> Scraping data from a PDF file: Per- and Polyfluoroalkyl Substances (PFAS) concentrations in drinking water on or near military installations, as of August 31, 2017 </h1>
 
+test
+
 <img src="https://github.com/department-of-veterans-affairs/DAPM-PFAS-PACT-ACT/blob/main/2017%20PDF%20scrape/2017%20histogram.png">
 <p>This figure shows the concentrations of PFAS (results) and the number of installations that reported that concentration (frequency). This figure indicates that the 2017 data is right skewed, with more installations reporting lower concentrations, below 1,000 parts per trillion (ppt). This indicates that the measure of central tendency should be the median, rather than the mean. The red vertical lines marks Environmental Protection Agency (EPA)’s proposed standard of 4 ppt and historic screening value of 70 ppt. All installations reported at least one concentration above 70 ppt. 
 </p>
